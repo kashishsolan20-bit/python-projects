@@ -1,5 +1,7 @@
-What it does
-* Creates a list
-* Prints the list
-* Adds a new item using append()
-* Prints the updated list
+fruits = ["apple", "banana", "mango"]
+
+print("Fruit list:", fruits)
+
+fruits.append("orange")
+
+print("Updated list:", fruits)
